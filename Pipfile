@@ -11,6 +11,8 @@ matplotlib = "*"
 numpy = "*"
 opencv-python = "*"
 pip = "*"
+torchvision = "*"
+torch = "*"
 
 [dev-packages]
 
