@@ -12,7 +12,6 @@ numpy = "*"
 opencv-python = "*"
 pip = "*"
 torchvision = "*"
-torch = "*"
 detectron2 = {editable = true, git = "https://github.com/facebookresearch/detectron2.git"}
 
 [dev-packages]
